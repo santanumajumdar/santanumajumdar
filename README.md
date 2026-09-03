@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=Hi,+I'm+Santanu+Majumdar+%F0%9F%91%8B;Senior+Technical+Program+Manager;AI+Architecture+%26+Cross-Functional+Leadership;Shipping+0-to-1+AI+Products+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=Hi,+I'm+Santanu+Majumdar;Senior+Technical+Program+Manager;AI+Architecture+%26+Cross-Functional+Leadership;Shipping+0-to-1+AI+Products+at+Scale" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Executive Highlights (For Recruiters)
+### 💼 Executive Highlights
 - 🚀 **0-to-1 Product Delivery**: Proven track record of guiding complex AI initiatives from whiteboard architecture to production deployment.
 - 🧠 **AI & LLM Integration**: Deep hands-on expertise building production-ready RAG systems, AI autonomous agents, and LLM-powered data pipelines.
 - 🤝 **Cross-Functional Leadership**: Fluent in translating business requirements into rigorous technical specs across Engineering, Product, and Design teams.
@@ -54,8 +54,8 @@ As a TPM, I believe in staying technical. Here are working tools I've built to s
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santanumajumdar&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=2EA043" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanumajumdar&layout=compact&theme=transparent&hide_border=true&title_color=2EA043" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santanumajumdar&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=2EA043" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanumajumdar&layout=compact&theme=transparent&hide_border=true&title_color=2EA043" alt="Top Languages" />
 </div>
 
 <br>
