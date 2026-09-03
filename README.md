@@ -10,7 +10,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/santanumajumdar)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/santanumajumdar)
+  [![Topmate](https://img.shields.io/badge/Topmate-Book_a_call-ff6b6b?style=for-the-badge&logo=topmate)](https://topmate.io/santanumajumdar)
 
 </div>
 
