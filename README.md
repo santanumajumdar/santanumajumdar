@@ -51,14 +51,6 @@ As a TPM, I believe in staying technical. Here are working tools I've built to s
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santanumajumdar&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=2EA043" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanumajumdar&layout=compact&theme=transparent&hide_border=true&title_color=2EA043" alt="Top Languages" />
-</div>
-
-<br>
 <div align="center">
   <i>A visual representation of my contribution history eating my graph:</i><br><br>
   <picture>
